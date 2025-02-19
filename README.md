@@ -4,4 +4,4 @@
 
 Projeto Luz e cena criado pela Alura no curso de treinamento CSS Flexbox
 
-Acesse a página pronta do projeto aqui: 
+Acesse a página pronta do projeto aqui: https://luanpsx18.github.io/luz-e-cena/
